@@ -19,8 +19,9 @@ The following layers are in the architecture of the Convolutional Network:
 - Softmax layer
 
 ## Setup:
-- Install required libraries => `keras` `sklearn` `OpenCV` `matplotlib` `numpy` `imutils`
-- Set the path of input image => cv2.imread(imagepath)
+- Download all the files.
+- Install required python libraries => `keras` `sklearn` `OpenCV` `matplotlib` `numpy` `imutils`
+- Set the path of input image `cv2.imread(imagepath)` in test_image.py
 
 
 ## Execute:
